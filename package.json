@@ -1,0 +1,19 @@
+{
+  "name": "crawl-ict-hcm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/helpers": "^6.5.0",
+    "axios": "^1.6.2",
+    "lodash": "^4.17.21",
+    "progress": "^2.0.3"
+  }
+}
